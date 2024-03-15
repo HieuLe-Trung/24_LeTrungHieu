@@ -3,6 +3,11 @@
 int main(){
 	cout<<"Hello LETRUNGHIEU";
 	cout << "Thay doi khi tao nhanh";
-	return 0;
 
+
+
+	cout << "Hoan tat buoi 1";
+	cout << "Hoan tat buoi 1 lan 2";
+
+	return 0;
 }
