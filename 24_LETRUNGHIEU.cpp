@@ -1,6 +1,10 @@
 #include <iostream>
-int main
+
 int main(){
+	cout<<"Hello LETRUNGHIEU";
+	cout << "Thay doi khi tao nhanh";
+
+
 
 	cout << "Hoan tat buoi 1";
 	cout << "Hoan tat buoi 1 lan 2";
