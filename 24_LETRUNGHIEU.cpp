@@ -6,7 +6,7 @@ int main(){
 	cout << "Doi nhanh";
 
 
-
+	cout << "update";
 	cout << "Hoan tat buoi 1";
 	cout << "Hoan tat buoi 1 lan 2";
 
